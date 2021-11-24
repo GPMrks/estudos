@@ -1,0 +1,38 @@
+<html>
+    <head>
+        <title>Exemplo Javascript 2</title>
+    </head>
+    <body>
+        <p>Mostrando Estruturas</p>
+        <script type="text/javascript">
+           var idade, num2, sum;
+
+           idade = prompt("Qual é a sua idade?");
+           
+           if(idade < 18){
+               document.write("Você é menor de idade!<br><br>");
+           }
+           else {
+               document.write("Você é maior de idade!<br><br>");
+               document.write("<hr><br>Usando 'While'<br><br>");
+           }
+
+           var contador = prompt("Entre com um número maior que zero, que imprimiremos de 1 até o seu número.");
+           
+           num2 = contador;
+
+           while(contador > 0){
+               document.write(contador+"<br><br>");
+               contador--;
+           }
+           document.write("<br><hr>");
+           document.write("<br>Usando 'for' para contar de 0 a 9<br>");
+           document.write("<br>");
+
+           for (var i = 0; i < 10; i++){
+               document.write(num2 + "<br><br>");
+           }
+           document.write("<br>");
+        </script>
+    </body>
+</html>

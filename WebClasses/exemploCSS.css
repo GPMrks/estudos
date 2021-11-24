@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(119, 119, 119);
+} 
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    font-size: 80px;
+    font-weight: 100;
+    letter-spacing: 10px;
+    color: #F35626;
+}
+
+h2 {
+    color: darkgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: dodgerblue;
+    font-family: sans-serif;
+} 
+
+#id_cabecalho {
+    color: #2aa006;
+}

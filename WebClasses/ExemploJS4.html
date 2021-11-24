@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <title>Exemplo Javascript 4</title>
+    </head>
+    <body>
+        <p>Criação de Funções</p>
+        <script type="text/javascript">
+            
+            var multiplicacao = function (x, y){
+                return x * y;
+            }
+
+            x = prompt("Digite o primeiro número:");
+            y = prompt("Digite o segundo número:");
+
+            var resultado = multiplicacao(x, y);
+
+            window.alert(resultado);
+
+            var conta = {
+                
+                saldo: 0,
+                deposita: function (valor){
+                    this.saldo += valor;
+                }
+            }
+
+            conta.deposita(resultado);
+            console.log(conta.saldo);
+            window.alert(conta.saldo);
+            
+        </script>
+    </body>
+</html>

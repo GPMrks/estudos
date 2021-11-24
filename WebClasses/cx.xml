@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cx.css" type="text/css"?>
+
+<cadastro>
+    <pessoa>
+        <empresa>TOLENTINOS HOLDING LTDA</empresa>
+        <nome>Vinícius Tolentino</nome>
+        <cargo>Diretor Geral</cargo>
+        <dados>
+            <celular>9999-9999</celular>
+            <email>contato@tolentinos.com</email>
+        </dados>
+    </pessoa>
+
+    <pessoa>
+        <empresa>JOVE LTDA</empresa>
+        <nome>Guilherme Marques</nome>
+        <cargo>CEO</cargo>
+        <dados>
+            <celular>9999-9980</celular>
+            <email>contato@jove.com</email>
+        </dados>
+    </pessoa>
+
+    <pessoa>
+        <empresa>JOVE LTDA</empresa>
+        <nome>Guilherme Marques</nome>
+        <cargo>CEO</cargo>
+        <dados>
+            <celular>9999-9980</celular>
+            <email>contato@jove.com</email>
+        </dados>
+    </pessoa>
+
+    <pessoa>
+        <empresa>JOVE LTDA</empresa>
+        <nome>Guilherme Marques</nome>
+        <cargo>CEO</cargo>
+        <dados>
+            <celular>9999-9980</celular>
+            <email>contato@jove.com</email>
+        </dados>
+    </pessoa>
+
+</cadastro>
+
+
+    

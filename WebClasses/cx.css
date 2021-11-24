@@ -1,0 +1,48 @@
+cadastro {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+pessoa {
+    border: 3px solid black;
+    display: block;
+    background-color: rgb(133, 133, 133);
+    margin: 50px;
+}
+
+empresa {
+    font-size: 12px;
+    font-weight: bold;
+    text-align: right;
+    display: block;
+    margin-bottom: 5px;
+}
+
+nome {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+}
+
+cargo {
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+}
+
+celular {
+    font-size: 10px;
+    text-align: left;
+}
+
+celular::before {
+    content: "Celular ";
+}
+
+email {
+    font-size: 10px;
+    text-align: right;
+    margin-left: 230px;
+}

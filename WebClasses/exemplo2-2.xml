@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<biblioteca>
+    <livro>
+        <titulo>XML Teoria e Prática</titulo>
+        <autor>Ramalho</autor>
+        <editora>Fictícia</editora>
+        <numero_de_paginas>200</numero_de_paginas>
+        <estoque>100</estoque>
+    </livro>
+    <livro>
+        <titulo>Using Samba</titulo>
+        <autor>Eckstein, Collier-Brown, Kelly</autor>
+        <editora>Retângulo</editora>
+        <numero_de_paginas>300</numero_de_paginas>
+        <estoque>58</estoque>
+    </livro>
+    <livro>
+        <titulo>HTML</titulo>
+        <autor>Eckstein</autor>
+        <editora>W3</editora>
+        <numero_de_paginas>450</numero_de_paginas>
+        <estoque>63</estoque>
+    </livro>
+    <livro>
+        <titulo>CSS</titulo>
+        <autor>Collier-Brown</autor>
+        <editora>W3</editora>
+        <numero_de_paginas>250</numero_de_paginas>
+        <estoque>42</estoque>
+    </livro>
+</biblioteca>

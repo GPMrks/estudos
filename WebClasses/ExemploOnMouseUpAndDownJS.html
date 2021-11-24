@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>Exemplo OnMouseUp e OnMouseDown</title>
+    </head>
+
+    <body>
+        <div onmousedown="mDown(this);" onmouseup="mUp(this);" style="background-color: brown; width: 90px; height: 20px; padding: 40px;">
+            Clique aqui
+        </div>
+
+        <script>
+            function mDown(obj){
+                obj.style.backgroundColor="1ec5e5";
+                obj.innerHTML="Solte o clique";
+            }
+
+            function mUp(obj){
+                obj.style.backgroundColor="green";
+                obj.innerHTML="Obrigado"
+            }
+
+        </script>
+    </body>
+</html>

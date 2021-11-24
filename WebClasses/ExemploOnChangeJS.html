@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Exemplo OnChange</title>
+        <script type="text/javascript">
+
+            function myFunction(){
+                var nome = document.getElementById("fname");
+                nome.value = nome.value.toUpperCase();
+                alert(length.nome);
+            }
+
+        </script>
+    </head>
+
+    <body>
+        <label>Insira seu nome: </label><input type="text" size="40" id="fname" onchange="myFunction();"><br><br>
+
+        <p>Ao clicarmos fora do input text o texto escrito nele ficará todo em caixa alta.</p>
+    </body>
+</html>
