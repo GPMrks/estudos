@@ -1,5 +1,4 @@
 import javax.swing.*;
-import java.util.Scanner;
 
 public class Main {
 
@@ -12,7 +11,12 @@ public class Main {
             name = JOptionPane.showInputDialog("Enter your name: ");
         }
 
-        JOptionPane.showMessageDialog(null, "Hello " + name);
+        if(name.equals("Guilherme")) {
+            JOptionPane.showMessageDialog(null, "Welcome back, " + name + "!");
+        }
+        else{
+            JOptionPane.showMessageDialog(null, "Get the fuck out of GPMrks'es PC!!");
+        }
 
     }
 
