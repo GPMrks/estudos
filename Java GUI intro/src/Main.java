@@ -4,14 +4,60 @@ public class Main {
 
     public static void main(String[] args){
 
-        String name = JOptionPane.showInputDialog("Enter your name");
-        JOptionPane.showMessageDialog(null, "Hello " + name);
+        String name;
+        String input;
+        int age = 0;
+        double height = 0;
+        boolean validAge = false;
+        boolean validHeight = false;
 
-        int age = Integer.parseInt(JOptionPane.showInputDialog("Enter your age"));
-        JOptionPane.showMessageDialog(null, "You are " + age + " years old.");
+        try {
+            do {
+                name = JOptionPane.showInputDialog("Digite seu nome: ");
+                if(name.equals("")){
+                    JOptionPane.showMessageDialog(null, "Nome não informado!");
+                }
+            }
+            while (name.equals(""));
+            {
+                JOptionPane.showMessageDialog(null, "Olá " + name);
+            }
 
-        double height = Double.parseDouble(JOptionPane.showInputDialog("Enter your height"));
-        JOptionPane.showMessageDialog(null, "You are " + height + " cm tall.");
+            while (!validAge) {
+                try {
+                    input = JOptionPane.showInputDialog("Digite sua idade: ");
+
+                    if(input == null){
+                        throw new NullPointerException();
+                    }
+                    else{
+                        age = Integer.parseInt(input);
+                    }
+
+                    validAge = true;
+
+              } catch (NumberFormatException ae) {
+                    JOptionPane.showMessageDialog(null, "Idade não informada!");
+               }
+            }
+            JOptionPane.showMessageDialog(null, "Você tem " + age + " anos.");
+
+            while (!validHeight) {
+               try {
+                    height = Double.parseDouble(JOptionPane.showInputDialog("Digite sua altura(cm): "));
+                    validHeight = true;
+                } catch (NumberFormatException ae) {
+                    JOptionPane.showMessageDialog(null, "Altura não informada!");
+                }
+            }
+            JOptionPane.showMessageDialog(null, "Você tem " + height + "cm de altura.");
+
+            JOptionPane.showMessageDialog(null, "Bem vindo!!");
+        }
+
+        catch(NullPointerException exit){
+            JOptionPane.showMessageDialog(null, "Você saiu do programa!");
+        }
 
     }
 }
