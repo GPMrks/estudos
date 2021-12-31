@@ -1,0 +1,13 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp User Input\CSharp User Input\bin\Debug\netcoreapp3.1\CSharp User Input.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp User Input\CSharp User Input\bin\Debug\netcoreapp3.1\CSharp User Input.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp User Input\CSharp User Input\bin\Debug\netcoreapp3.1\CSharp User Input.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp User Input\CSharp User Input\bin\Debug\netcoreapp3.1\CSharp User Input.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp User Input\CSharp User Input\bin\Debug\netcoreapp3.1\CSharp User Input.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp User Input\CSharp User Input\bin\Debug\netcoreapp3.1\CSharp User Input.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp User Input\CSharp User Input\obj\Debug\netcoreapp3.1\CSharp User Input.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp User Input\CSharp User Input\obj\Debug\netcoreapp3.1\CSharp User Input.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp User Input\CSharp User Input\obj\Debug\netcoreapp3.1\CSharp User Input.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp User Input\CSharp User Input\obj\Debug\netcoreapp3.1\CSharp User Input.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp User Input\CSharp User Input\obj\Debug\netcoreapp3.1\CSharp User Input.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp User Input\CSharp User Input\obj\Debug\netcoreapp3.1\CSharp User Input.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp User Input\CSharp User Input\obj\Debug\netcoreapp3.1\CSharp User Input.genruntimeconfig.cache

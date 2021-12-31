@@ -1,0 +1,13 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Type Casting\CSharp Type Casting\bin\Debug\netcoreapp3.1\CSharp Type Casting.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Type Casting\CSharp Type Casting\bin\Debug\netcoreapp3.1\CSharp Type Casting.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Type Casting\CSharp Type Casting\bin\Debug\netcoreapp3.1\CSharp Type Casting.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Type Casting\CSharp Type Casting\bin\Debug\netcoreapp3.1\CSharp Type Casting.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Type Casting\CSharp Type Casting\bin\Debug\netcoreapp3.1\CSharp Type Casting.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Type Casting\CSharp Type Casting\bin\Debug\netcoreapp3.1\CSharp Type Casting.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Type Casting\CSharp Type Casting\obj\Debug\netcoreapp3.1\CSharp Type Casting.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Type Casting\CSharp Type Casting\obj\Debug\netcoreapp3.1\CSharp Type Casting.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Type Casting\CSharp Type Casting\obj\Debug\netcoreapp3.1\CSharp Type Casting.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Type Casting\CSharp Type Casting\obj\Debug\netcoreapp3.1\CSharp Type Casting.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Type Casting\CSharp Type Casting\obj\Debug\netcoreapp3.1\CSharp Type Casting.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Type Casting\CSharp Type Casting\obj\Debug\netcoreapp3.1\CSharp Type Casting.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Type Casting\CSharp Type Casting\obj\Debug\netcoreapp3.1\CSharp Type Casting.genruntimeconfig.cache
