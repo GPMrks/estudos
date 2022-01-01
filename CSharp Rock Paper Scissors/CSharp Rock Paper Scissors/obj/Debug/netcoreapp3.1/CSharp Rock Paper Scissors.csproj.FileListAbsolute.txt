@@ -1,0 +1,13 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Rock Paper Scissors\CSharp Rock Paper Scissors\bin\Debug\netcoreapp3.1\CSharp Rock Paper Scissors.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Rock Paper Scissors\CSharp Rock Paper Scissors\bin\Debug\netcoreapp3.1\CSharp Rock Paper Scissors.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Rock Paper Scissors\CSharp Rock Paper Scissors\bin\Debug\netcoreapp3.1\CSharp Rock Paper Scissors.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Rock Paper Scissors\CSharp Rock Paper Scissors\bin\Debug\netcoreapp3.1\CSharp Rock Paper Scissors.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Rock Paper Scissors\CSharp Rock Paper Scissors\bin\Debug\netcoreapp3.1\CSharp Rock Paper Scissors.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Rock Paper Scissors\CSharp Rock Paper Scissors\bin\Debug\netcoreapp3.1\CSharp Rock Paper Scissors.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Rock Paper Scissors\CSharp Rock Paper Scissors\obj\Debug\netcoreapp3.1\CSharp Rock Paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Rock Paper Scissors\CSharp Rock Paper Scissors\obj\Debug\netcoreapp3.1\CSharp Rock Paper Scissors.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Rock Paper Scissors\CSharp Rock Paper Scissors\obj\Debug\netcoreapp3.1\CSharp Rock Paper Scissors.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Rock Paper Scissors\CSharp Rock Paper Scissors\obj\Debug\netcoreapp3.1\CSharp Rock Paper Scissors.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Rock Paper Scissors\CSharp Rock Paper Scissors\obj\Debug\netcoreapp3.1\CSharp Rock Paper Scissors.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Rock Paper Scissors\CSharp Rock Paper Scissors\obj\Debug\netcoreapp3.1\CSharp Rock Paper Scissors.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Rock Paper Scissors\CSharp Rock Paper Scissors\obj\Debug\netcoreapp3.1\CSharp Rock Paper Scissors.genruntimeconfig.cache
