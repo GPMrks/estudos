@@ -1,0 +1,13 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp If Statements\CSharp If Statements\bin\Debug\netcoreapp3.1\CSharp If Statements.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp If Statements\CSharp If Statements\bin\Debug\netcoreapp3.1\CSharp If Statements.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp If Statements\CSharp If Statements\bin\Debug\netcoreapp3.1\CSharp If Statements.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp If Statements\CSharp If Statements\bin\Debug\netcoreapp3.1\CSharp If Statements.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp If Statements\CSharp If Statements\bin\Debug\netcoreapp3.1\CSharp If Statements.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp If Statements\CSharp If Statements\bin\Debug\netcoreapp3.1\CSharp If Statements.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp If Statements\CSharp If Statements\obj\Debug\netcoreapp3.1\CSharp If Statements.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp If Statements\CSharp If Statements\obj\Debug\netcoreapp3.1\CSharp If Statements.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp If Statements\CSharp If Statements\obj\Debug\netcoreapp3.1\CSharp If Statements.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp If Statements\CSharp If Statements\obj\Debug\netcoreapp3.1\CSharp If Statements.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp If Statements\CSharp If Statements\obj\Debug\netcoreapp3.1\CSharp If Statements.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp If Statements\CSharp If Statements\obj\Debug\netcoreapp3.1\CSharp If Statements.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp If Statements\CSharp If Statements\obj\Debug\netcoreapp3.1\CSharp If Statements.genruntimeconfig.cache

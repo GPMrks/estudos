@@ -1,0 +1,14 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp String Methods\CSharp String Methods\bin\Debug\netcoreapp3.1\CSharp String Methods.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp String Methods\CSharp String Methods\bin\Debug\netcoreapp3.1\CSharp String Methods.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp String Methods\CSharp String Methods\bin\Debug\netcoreapp3.1\CSharp String Methods.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp String Methods\CSharp String Methods\bin\Debug\netcoreapp3.1\CSharp String Methods.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp String Methods\CSharp String Methods\bin\Debug\netcoreapp3.1\CSharp String Methods.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp String Methods\CSharp String Methods\bin\Debug\netcoreapp3.1\CSharp String Methods.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp String Methods\CSharp String Methods\obj\Debug\netcoreapp3.1\CSharp String Methods.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp String Methods\CSharp String Methods\obj\Debug\netcoreapp3.1\CSharp String Methods.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp String Methods\CSharp String Methods\obj\Debug\netcoreapp3.1\CSharp String Methods.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp String Methods\CSharp String Methods\obj\Debug\netcoreapp3.1\CSharp String Methods.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp String Methods\CSharp String Methods\obj\Debug\netcoreapp3.1\CSharp String Methods.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp String Methods\CSharp String Methods\obj\Debug\netcoreapp3.1\CSharp String Methods.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp String Methods\CSharp String Methods\obj\Debug\netcoreapp3.1\CSharp String Methods.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp String Methods\CSharp String Methods\obj\Debug\netcoreapp3.1\CSharp String Methods.genruntimeconfig.cache

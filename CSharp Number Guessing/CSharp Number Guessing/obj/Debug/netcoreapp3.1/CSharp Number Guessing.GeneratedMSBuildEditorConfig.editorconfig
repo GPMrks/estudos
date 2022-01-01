@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CSharp_Number_Guessing
+build_property.ProjectDir = \\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Number Guessing\CSharp Number Guessing\

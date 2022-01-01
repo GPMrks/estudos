@@ -1,0 +1,14 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Nested Loops\CSharp Nested Loops\bin\Debug\netcoreapp3.1\CSharp Nested Loops.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Nested Loops\CSharp Nested Loops\bin\Debug\netcoreapp3.1\CSharp Nested Loops.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Nested Loops\CSharp Nested Loops\bin\Debug\netcoreapp3.1\CSharp Nested Loops.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Nested Loops\CSharp Nested Loops\bin\Debug\netcoreapp3.1\CSharp Nested Loops.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Nested Loops\CSharp Nested Loops\bin\Debug\netcoreapp3.1\CSharp Nested Loops.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Nested Loops\CSharp Nested Loops\bin\Debug\netcoreapp3.1\CSharp Nested Loops.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Nested Loops\CSharp Nested Loops\obj\Debug\netcoreapp3.1\CSharp Nested Loops.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Nested Loops\CSharp Nested Loops\obj\Debug\netcoreapp3.1\CSharp Nested Loops.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Nested Loops\CSharp Nested Loops\obj\Debug\netcoreapp3.1\CSharp Nested Loops.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Nested Loops\CSharp Nested Loops\obj\Debug\netcoreapp3.1\CSharp Nested Loops.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Nested Loops\CSharp Nested Loops\obj\Debug\netcoreapp3.1\CSharp Nested Loops.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Nested Loops\CSharp Nested Loops\obj\Debug\netcoreapp3.1\CSharp Nested Loops.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Nested Loops\CSharp Nested Loops\obj\Debug\netcoreapp3.1\CSharp Nested Loops.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Nested Loops\CSharp Nested Loops\obj\Debug\netcoreapp3.1\CSharp Nested Loops.genruntimeconfig.cache

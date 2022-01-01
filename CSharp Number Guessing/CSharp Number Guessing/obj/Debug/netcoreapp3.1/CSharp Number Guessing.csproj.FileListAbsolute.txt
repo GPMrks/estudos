@@ -1,0 +1,13 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Number Guessing\CSharp Number Guessing\obj\Debug\netcoreapp3.1\CSharp Number Guessing.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Number Guessing\CSharp Number Guessing\obj\Debug\netcoreapp3.1\CSharp Number Guessing.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Number Guessing\CSharp Number Guessing\obj\Debug\netcoreapp3.1\CSharp Number Guessing.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Number Guessing\CSharp Number Guessing\obj\Debug\netcoreapp3.1\CSharp Number Guessing.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Number Guessing\CSharp Number Guessing\bin\Debug\netcoreapp3.1\CSharp Number Guessing.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Number Guessing\CSharp Number Guessing\bin\Debug\netcoreapp3.1\CSharp Number Guessing.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Number Guessing\CSharp Number Guessing\bin\Debug\netcoreapp3.1\CSharp Number Guessing.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Number Guessing\CSharp Number Guessing\bin\Debug\netcoreapp3.1\CSharp Number Guessing.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Number Guessing\CSharp Number Guessing\bin\Debug\netcoreapp3.1\CSharp Number Guessing.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Number Guessing\CSharp Number Guessing\bin\Debug\netcoreapp3.1\CSharp Number Guessing.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Number Guessing\CSharp Number Guessing\obj\Debug\netcoreapp3.1\CSharp Number Guessing.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Number Guessing\CSharp Number Guessing\obj\Debug\netcoreapp3.1\CSharp Number Guessing.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Number Guessing\CSharp Number Guessing\obj\Debug\netcoreapp3.1\CSharp Number Guessing.genruntimeconfig.cache
