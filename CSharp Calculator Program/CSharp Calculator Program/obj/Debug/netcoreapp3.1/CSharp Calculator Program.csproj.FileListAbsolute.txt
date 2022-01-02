@@ -1,0 +1,14 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Calculator Program\CSharp Calculator Program\bin\Debug\netcoreapp3.1\CSharp Calculator Program.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Calculator Program\CSharp Calculator Program\bin\Debug\netcoreapp3.1\CSharp Calculator Program.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Calculator Program\CSharp Calculator Program\bin\Debug\netcoreapp3.1\CSharp Calculator Program.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Calculator Program\CSharp Calculator Program\bin\Debug\netcoreapp3.1\CSharp Calculator Program.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Calculator Program\CSharp Calculator Program\bin\Debug\netcoreapp3.1\CSharp Calculator Program.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Calculator Program\CSharp Calculator Program\bin\Debug\netcoreapp3.1\CSharp Calculator Program.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Calculator Program\CSharp Calculator Program\obj\Debug\netcoreapp3.1\CSharp Calculator Program.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Calculator Program\CSharp Calculator Program\obj\Debug\netcoreapp3.1\CSharp Calculator Program.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Calculator Program\CSharp Calculator Program\obj\Debug\netcoreapp3.1\CSharp Calculator Program.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Calculator Program\CSharp Calculator Program\obj\Debug\netcoreapp3.1\CSharp Calculator Program.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Calculator Program\CSharp Calculator Program\obj\Debug\netcoreapp3.1\CSharp Calculator Program.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Calculator Program\CSharp Calculator Program\obj\Debug\netcoreapp3.1\CSharp Calculator Program.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Calculator Program\CSharp Calculator Program\obj\Debug\netcoreapp3.1\CSharp Calculator Program.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Calculator Program\CSharp Calculator Program\obj\Debug\netcoreapp3.1\CSharp Calculator Program.genruntimeconfig.cache
