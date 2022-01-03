@@ -1,0 +1,14 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Exception Handling\CSharp Exception Handling\bin\Debug\netcoreapp3.1\CSharp Exception Handling.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Exception Handling\CSharp Exception Handling\bin\Debug\netcoreapp3.1\CSharp Exception Handling.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Exception Handling\CSharp Exception Handling\bin\Debug\netcoreapp3.1\CSharp Exception Handling.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Exception Handling\CSharp Exception Handling\bin\Debug\netcoreapp3.1\CSharp Exception Handling.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Exception Handling\CSharp Exception Handling\bin\Debug\netcoreapp3.1\CSharp Exception Handling.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Exception Handling\CSharp Exception Handling\bin\Debug\netcoreapp3.1\CSharp Exception Handling.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Exception Handling\CSharp Exception Handling\obj\Debug\netcoreapp3.1\CSharp Exception Handling.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Exception Handling\CSharp Exception Handling\obj\Debug\netcoreapp3.1\CSharp Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Exception Handling\CSharp Exception Handling\obj\Debug\netcoreapp3.1\CSharp Exception Handling.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Exception Handling\CSharp Exception Handling\obj\Debug\netcoreapp3.1\CSharp Exception Handling.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Exception Handling\CSharp Exception Handling\obj\Debug\netcoreapp3.1\CSharp Exception Handling.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Exception Handling\CSharp Exception Handling\obj\Debug\netcoreapp3.1\CSharp Exception Handling.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Exception Handling\CSharp Exception Handling\obj\Debug\netcoreapp3.1\CSharp Exception Handling.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Exception Handling\CSharp Exception Handling\obj\Debug\netcoreapp3.1\CSharp Exception Handling.genruntimeconfig.cache

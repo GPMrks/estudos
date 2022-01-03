@@ -1,0 +1,13 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Conditional Operator\CSharp Conditional Operator\bin\Debug\netcoreapp3.1\CSharp Conditional Operator.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Conditional Operator\CSharp Conditional Operator\bin\Debug\netcoreapp3.1\CSharp Conditional Operator.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Conditional Operator\CSharp Conditional Operator\bin\Debug\netcoreapp3.1\CSharp Conditional Operator.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Conditional Operator\CSharp Conditional Operator\bin\Debug\netcoreapp3.1\CSharp Conditional Operator.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Conditional Operator\CSharp Conditional Operator\bin\Debug\netcoreapp3.1\CSharp Conditional Operator.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Conditional Operator\CSharp Conditional Operator\bin\Debug\netcoreapp3.1\CSharp Conditional Operator.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Conditional Operator\CSharp Conditional Operator\obj\Debug\netcoreapp3.1\CSharp Conditional Operator.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Conditional Operator\CSharp Conditional Operator\obj\Debug\netcoreapp3.1\CSharp Conditional Operator.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Conditional Operator\CSharp Conditional Operator\obj\Debug\netcoreapp3.1\CSharp Conditional Operator.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Conditional Operator\CSharp Conditional Operator\obj\Debug\netcoreapp3.1\CSharp Conditional Operator.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Conditional Operator\CSharp Conditional Operator\obj\Debug\netcoreapp3.1\CSharp Conditional Operator.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Conditional Operator\CSharp Conditional Operator\obj\Debug\netcoreapp3.1\CSharp Conditional Operator.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Conditional Operator\CSharp Conditional Operator\obj\Debug\netcoreapp3.1\CSharp Conditional Operator.genruntimeconfig.cache
