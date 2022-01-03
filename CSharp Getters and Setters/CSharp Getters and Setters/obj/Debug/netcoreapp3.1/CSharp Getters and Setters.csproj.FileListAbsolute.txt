@@ -1,0 +1,14 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Getters and Setters\CSharp Getters and Setters\bin\Debug\netcoreapp3.1\CSharp Getters and Setters.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Getters and Setters\CSharp Getters and Setters\bin\Debug\netcoreapp3.1\CSharp Getters and Setters.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Getters and Setters\CSharp Getters and Setters\bin\Debug\netcoreapp3.1\CSharp Getters and Setters.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Getters and Setters\CSharp Getters and Setters\bin\Debug\netcoreapp3.1\CSharp Getters and Setters.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Getters and Setters\CSharp Getters and Setters\bin\Debug\netcoreapp3.1\CSharp Getters and Setters.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Getters and Setters\CSharp Getters and Setters\bin\Debug\netcoreapp3.1\CSharp Getters and Setters.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Getters and Setters\CSharp Getters and Setters\obj\Debug\netcoreapp3.1\CSharp Getters and Setters.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Getters and Setters\CSharp Getters and Setters\obj\Debug\netcoreapp3.1\CSharp Getters and Setters.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Getters and Setters\CSharp Getters and Setters\obj\Debug\netcoreapp3.1\CSharp Getters and Setters.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Getters and Setters\CSharp Getters and Setters\obj\Debug\netcoreapp3.1\CSharp Getters and Setters.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Getters and Setters\CSharp Getters and Setters\obj\Debug\netcoreapp3.1\CSharp Getters and Setters.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Getters and Setters\CSharp Getters and Setters\obj\Debug\netcoreapp3.1\CSharp Getters and Setters.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Getters and Setters\CSharp Getters and Setters\obj\Debug\netcoreapp3.1\CSharp Getters and Setters.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Getters and Setters\CSharp Getters and Setters\obj\Debug\netcoreapp3.1\CSharp Getters and Setters.genruntimeconfig.cache
