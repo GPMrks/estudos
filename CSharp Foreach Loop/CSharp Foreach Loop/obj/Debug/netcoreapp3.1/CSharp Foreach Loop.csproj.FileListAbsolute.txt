@@ -1,0 +1,13 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Foreach Loop\CSharp Foreach Loop\bin\Debug\netcoreapp3.1\CSharp Foreach Loop.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Foreach Loop\CSharp Foreach Loop\bin\Debug\netcoreapp3.1\CSharp Foreach Loop.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Foreach Loop\CSharp Foreach Loop\bin\Debug\netcoreapp3.1\CSharp Foreach Loop.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Foreach Loop\CSharp Foreach Loop\bin\Debug\netcoreapp3.1\CSharp Foreach Loop.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Foreach Loop\CSharp Foreach Loop\bin\Debug\netcoreapp3.1\CSharp Foreach Loop.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Foreach Loop\CSharp Foreach Loop\bin\Debug\netcoreapp3.1\CSharp Foreach Loop.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Foreach Loop\CSharp Foreach Loop\obj\Debug\netcoreapp3.1\CSharp Foreach Loop.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Foreach Loop\CSharp Foreach Loop\obj\Debug\netcoreapp3.1\CSharp Foreach Loop.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Foreach Loop\CSharp Foreach Loop\obj\Debug\netcoreapp3.1\CSharp Foreach Loop.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Foreach Loop\CSharp Foreach Loop\obj\Debug\netcoreapp3.1\CSharp Foreach Loop.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Foreach Loop\CSharp Foreach Loop\obj\Debug\netcoreapp3.1\CSharp Foreach Loop.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Foreach Loop\CSharp Foreach Loop\obj\Debug\netcoreapp3.1\CSharp Foreach Loop.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Foreach Loop\CSharp Foreach Loop\obj\Debug\netcoreapp3.1\CSharp Foreach Loop.genruntimeconfig.cache

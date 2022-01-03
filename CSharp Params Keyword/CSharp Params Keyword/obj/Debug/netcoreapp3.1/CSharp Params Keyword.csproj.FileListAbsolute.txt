@@ -1,0 +1,14 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Params Keyword\CSharp Params Keyword\bin\Debug\netcoreapp3.1\CSharp Params Keyword.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Params Keyword\CSharp Params Keyword\bin\Debug\netcoreapp3.1\CSharp Params Keyword.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Params Keyword\CSharp Params Keyword\bin\Debug\netcoreapp3.1\CSharp Params Keyword.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Params Keyword\CSharp Params Keyword\bin\Debug\netcoreapp3.1\CSharp Params Keyword.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Params Keyword\CSharp Params Keyword\bin\Debug\netcoreapp3.1\CSharp Params Keyword.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Params Keyword\CSharp Params Keyword\bin\Debug\netcoreapp3.1\CSharp Params Keyword.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Params Keyword\CSharp Params Keyword\obj\Debug\netcoreapp3.1\CSharp Params Keyword.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Params Keyword\CSharp Params Keyword\obj\Debug\netcoreapp3.1\CSharp Params Keyword.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Params Keyword\CSharp Params Keyword\obj\Debug\netcoreapp3.1\CSharp Params Keyword.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Params Keyword\CSharp Params Keyword\obj\Debug\netcoreapp3.1\CSharp Params Keyword.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Params Keyword\CSharp Params Keyword\obj\Debug\netcoreapp3.1\CSharp Params Keyword.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Params Keyword\CSharp Params Keyword\obj\Debug\netcoreapp3.1\CSharp Params Keyword.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Params Keyword\CSharp Params Keyword\obj\Debug\netcoreapp3.1\CSharp Params Keyword.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Params Keyword\CSharp Params Keyword\obj\Debug\netcoreapp3.1\CSharp Params Keyword.genruntimeconfig.cache
