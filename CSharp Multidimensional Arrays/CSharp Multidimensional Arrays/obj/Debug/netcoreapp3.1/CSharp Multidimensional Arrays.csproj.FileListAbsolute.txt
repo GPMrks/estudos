@@ -1,0 +1,13 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Multidimensional Arrays\CSharp Multidimensional Arrays\bin\Debug\netcoreapp3.1\CSharp Multidimensional Arrays.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Multidimensional Arrays\CSharp Multidimensional Arrays\bin\Debug\netcoreapp3.1\CSharp Multidimensional Arrays.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Multidimensional Arrays\CSharp Multidimensional Arrays\bin\Debug\netcoreapp3.1\CSharp Multidimensional Arrays.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Multidimensional Arrays\CSharp Multidimensional Arrays\bin\Debug\netcoreapp3.1\CSharp Multidimensional Arrays.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Multidimensional Arrays\CSharp Multidimensional Arrays\bin\Debug\netcoreapp3.1\CSharp Multidimensional Arrays.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Multidimensional Arrays\CSharp Multidimensional Arrays\bin\Debug\netcoreapp3.1\CSharp Multidimensional Arrays.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Multidimensional Arrays\CSharp Multidimensional Arrays\obj\Debug\netcoreapp3.1\CSharp Multidimensional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Multidimensional Arrays\CSharp Multidimensional Arrays\obj\Debug\netcoreapp3.1\CSharp Multidimensional Arrays.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Multidimensional Arrays\CSharp Multidimensional Arrays\obj\Debug\netcoreapp3.1\CSharp Multidimensional Arrays.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Multidimensional Arrays\CSharp Multidimensional Arrays\obj\Debug\netcoreapp3.1\CSharp Multidimensional Arrays.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Multidimensional Arrays\CSharp Multidimensional Arrays\obj\Debug\netcoreapp3.1\CSharp Multidimensional Arrays.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Multidimensional Arrays\CSharp Multidimensional Arrays\obj\Debug\netcoreapp3.1\CSharp Multidimensional Arrays.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Multidimensional Arrays\CSharp Multidimensional Arrays\obj\Debug\netcoreapp3.1\CSharp Multidimensional Arrays.genruntimeconfig.cache
