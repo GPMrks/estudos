@@ -1,0 +1,14 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Method Overloading\CSharp Method Overloading\bin\Debug\netcoreapp3.1\CSharp Method Overloading.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Method Overloading\CSharp Method Overloading\bin\Debug\netcoreapp3.1\CSharp Method Overloading.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Method Overloading\CSharp Method Overloading\bin\Debug\netcoreapp3.1\CSharp Method Overloading.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Method Overloading\CSharp Method Overloading\bin\Debug\netcoreapp3.1\CSharp Method Overloading.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Method Overloading\CSharp Method Overloading\bin\Debug\netcoreapp3.1\CSharp Method Overloading.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Method Overloading\CSharp Method Overloading\bin\Debug\netcoreapp3.1\CSharp Method Overloading.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Method Overloading\CSharp Method Overloading\obj\Debug\netcoreapp3.1\CSharp Method Overloading.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Method Overloading\CSharp Method Overloading\obj\Debug\netcoreapp3.1\CSharp Method Overloading.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Method Overloading\CSharp Method Overloading\obj\Debug\netcoreapp3.1\CSharp Method Overloading.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Method Overloading\CSharp Method Overloading\obj\Debug\netcoreapp3.1\CSharp Method Overloading.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Method Overloading\CSharp Method Overloading\obj\Debug\netcoreapp3.1\CSharp Method Overloading.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Method Overloading\CSharp Method Overloading\obj\Debug\netcoreapp3.1\CSharp Method Overloading.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Method Overloading\CSharp Method Overloading\obj\Debug\netcoreapp3.1\CSharp Method Overloading.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Method Overloading\CSharp Method Overloading\obj\Debug\netcoreapp3.1\CSharp Method Overloading.csproj.AssemblyReference.cache
