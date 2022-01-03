@@ -1,0 +1,13 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Return Keyword\CSharp Return Keyword\bin\Debug\netcoreapp3.1\CSharp Return Keyword.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Return Keyword\CSharp Return Keyword\bin\Debug\netcoreapp3.1\CSharp Return Keyword.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Return Keyword\CSharp Return Keyword\bin\Debug\netcoreapp3.1\CSharp Return Keyword.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Return Keyword\CSharp Return Keyword\bin\Debug\netcoreapp3.1\CSharp Return Keyword.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Return Keyword\CSharp Return Keyword\bin\Debug\netcoreapp3.1\CSharp Return Keyword.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Return Keyword\CSharp Return Keyword\bin\Debug\netcoreapp3.1\CSharp Return Keyword.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Return Keyword\CSharp Return Keyword\obj\Debug\netcoreapp3.1\CSharp Return Keyword.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Return Keyword\CSharp Return Keyword\obj\Debug\netcoreapp3.1\CSharp Return Keyword.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Return Keyword\CSharp Return Keyword\obj\Debug\netcoreapp3.1\CSharp Return Keyword.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Return Keyword\CSharp Return Keyword\obj\Debug\netcoreapp3.1\CSharp Return Keyword.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Return Keyword\CSharp Return Keyword\obj\Debug\netcoreapp3.1\CSharp Return Keyword.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Return Keyword\CSharp Return Keyword\obj\Debug\netcoreapp3.1\CSharp Return Keyword.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Return Keyword\CSharp Return Keyword\obj\Debug\netcoreapp3.1\CSharp Return Keyword.genruntimeconfig.cache
