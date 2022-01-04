@@ -1,0 +1,14 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Auto Implemented Properties\CSharp Auto Implemented Properties\bin\Debug\netcoreapp3.1\CSharp Auto Implemented Properties.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Auto Implemented Properties\CSharp Auto Implemented Properties\bin\Debug\netcoreapp3.1\CSharp Auto Implemented Properties.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Auto Implemented Properties\CSharp Auto Implemented Properties\bin\Debug\netcoreapp3.1\CSharp Auto Implemented Properties.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Auto Implemented Properties\CSharp Auto Implemented Properties\bin\Debug\netcoreapp3.1\CSharp Auto Implemented Properties.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Auto Implemented Properties\CSharp Auto Implemented Properties\bin\Debug\netcoreapp3.1\CSharp Auto Implemented Properties.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Auto Implemented Properties\CSharp Auto Implemented Properties\bin\Debug\netcoreapp3.1\CSharp Auto Implemented Properties.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Auto Implemented Properties\CSharp Auto Implemented Properties\obj\Debug\netcoreapp3.1\CSharp Auto Implemented Properties.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Auto Implemented Properties\CSharp Auto Implemented Properties\obj\Debug\netcoreapp3.1\CSharp Auto Implemented Properties.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Auto Implemented Properties\CSharp Auto Implemented Properties\obj\Debug\netcoreapp3.1\CSharp Auto Implemented Properties.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Auto Implemented Properties\CSharp Auto Implemented Properties\obj\Debug\netcoreapp3.1\CSharp Auto Implemented Properties.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Auto Implemented Properties\CSharp Auto Implemented Properties\obj\Debug\netcoreapp3.1\CSharp Auto Implemented Properties.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Auto Implemented Properties\CSharp Auto Implemented Properties\obj\Debug\netcoreapp3.1\CSharp Auto Implemented Properties.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Auto Implemented Properties\CSharp Auto Implemented Properties\obj\Debug\netcoreapp3.1\CSharp Auto Implemented Properties.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\CSharp Auto Implemented Properties\CSharp Auto Implemented Properties\obj\Debug\netcoreapp3.1\CSharp Auto Implemented Properties.genruntimeconfig.cache
