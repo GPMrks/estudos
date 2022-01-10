@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DoFactory Abstract Factory Example/1.0.0": {
+        "runtime": {
+          "DoFactory Abstract Factory Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoFactory Abstract Factory Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

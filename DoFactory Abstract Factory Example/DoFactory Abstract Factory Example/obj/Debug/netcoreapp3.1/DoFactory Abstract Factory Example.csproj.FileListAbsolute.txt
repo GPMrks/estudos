@@ -1,0 +1,14 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Abstract Factory Example\DoFactory Abstract Factory Example\bin\Debug\netcoreapp3.1\DoFactory Abstract Factory Example.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Abstract Factory Example\DoFactory Abstract Factory Example\bin\Debug\netcoreapp3.1\DoFactory Abstract Factory Example.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Abstract Factory Example\DoFactory Abstract Factory Example\bin\Debug\netcoreapp3.1\DoFactory Abstract Factory Example.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Abstract Factory Example\DoFactory Abstract Factory Example\bin\Debug\netcoreapp3.1\DoFactory Abstract Factory Example.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Abstract Factory Example\DoFactory Abstract Factory Example\bin\Debug\netcoreapp3.1\DoFactory Abstract Factory Example.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Abstract Factory Example\DoFactory Abstract Factory Example\bin\Debug\netcoreapp3.1\DoFactory Abstract Factory Example.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Abstract Factory Example\DoFactory Abstract Factory Example\obj\Debug\netcoreapp3.1\DoFactory Abstract Factory Example.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Abstract Factory Example\DoFactory Abstract Factory Example\obj\Debug\netcoreapp3.1\DoFactory Abstract Factory Example.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Abstract Factory Example\DoFactory Abstract Factory Example\obj\Debug\netcoreapp3.1\DoFactory Abstract Factory Example.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Abstract Factory Example\DoFactory Abstract Factory Example\obj\Debug\netcoreapp3.1\DoFactory Abstract Factory Example.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Abstract Factory Example\DoFactory Abstract Factory Example\obj\Debug\netcoreapp3.1\DoFactory Abstract Factory Example.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Abstract Factory Example\DoFactory Abstract Factory Example\obj\Debug\netcoreapp3.1\DoFactory Abstract Factory Example.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Abstract Factory Example\DoFactory Abstract Factory Example\obj\Debug\netcoreapp3.1\DoFactory Abstract Factory Example.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Abstract Factory Example\DoFactory Abstract Factory Example\obj\Debug\netcoreapp3.1\DoFactory Abstract Factory Example.genruntimeconfig.cache

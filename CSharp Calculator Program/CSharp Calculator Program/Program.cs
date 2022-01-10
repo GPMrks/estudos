@@ -7,9 +7,13 @@ namespace CSharp_Calculator_Program
         static void Main(string[] args)
         {
 
+            #region Descrição
+
             Console.WriteLine("------------------");
             Console.WriteLine("Calculator Program");
             Console.WriteLine("------------------");
+
+            #endregion
 
             do
             {
