@@ -1,0 +1,16 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\obj\Debug\net5.0\DoFactory Singleton Example.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\obj\Debug\net5.0\DoFactory Singleton Example.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\obj\Debug\net5.0\DoFactory Singleton Example.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\obj\Debug\net5.0\DoFactory Singleton Example.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\obj\Debug\net5.0\DoFactory Singleton Example.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\bin\Debug\net5.0\DoFactory Singleton Example.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\bin\Debug\net5.0\DoFactory Singleton Example.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\bin\Debug\net5.0\DoFactory Singleton Example.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\bin\Debug\net5.0\DoFactory Singleton Example.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\bin\Debug\net5.0\DoFactory Singleton Example.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\bin\Debug\net5.0\ref\DoFactory Singleton Example.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\bin\Debug\net5.0\DoFactory Singleton Example.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\obj\Debug\net5.0\DoFactory Singleton Example.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\obj\Debug\net5.0\ref\DoFactory Singleton Example.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\obj\Debug\net5.0\DoFactory Singleton Example.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Singleton Example\DoFactory Singleton Example\obj\Debug\net5.0\DoFactory Singleton Example.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\obj\Debug\net5.0\DoFactory Factory Method Example.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\obj\Debug\net5.0\DoFactory Factory Method Example.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\obj\Debug\net5.0\DoFactory Factory Method Example.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\obj\Debug\net5.0\DoFactory Factory Method Example.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\obj\Debug\net5.0\DoFactory Factory Method Example.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\bin\Debug\net5.0\DoFactory Factory Method Example.exe
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\bin\Debug\net5.0\DoFactory Factory Method Example.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\bin\Debug\net5.0\DoFactory Factory Method Example.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\bin\Debug\net5.0\DoFactory Factory Method Example.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\bin\Debug\net5.0\DoFactory Factory Method Example.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\bin\Debug\net5.0\ref\DoFactory Factory Method Example.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\bin\Debug\net5.0\DoFactory Factory Method Example.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\obj\Debug\net5.0\DoFactory Factory Method Example.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\obj\Debug\net5.0\ref\DoFactory Factory Method Example.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\obj\Debug\net5.0\DoFactory Factory Method Example.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\DoFactory Factory Method Example\DoFactory Factory Method Example\obj\Debug\net5.0\DoFactory Factory Method Example.genruntimeconfig.cache

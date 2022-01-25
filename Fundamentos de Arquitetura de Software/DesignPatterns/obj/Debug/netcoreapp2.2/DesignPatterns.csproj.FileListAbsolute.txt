@@ -1,0 +1,13 @@
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\Fundamentos de Arquitetura de Software\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.deps.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\Fundamentos de Arquitetura de Software\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\Fundamentos de Arquitetura de Software\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\Fundamentos de Arquitetura de Software\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\Fundamentos de Arquitetura de Software\DesignPatterns\bin\Debug\netcoreapp2.2\DesignPatterns.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\Fundamentos de Arquitetura de Software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\Fundamentos de Arquitetura de Software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\Fundamentos de Arquitetura de Software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\Fundamentos de Arquitetura de Software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\Fundamentos de Arquitetura de Software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\Fundamentos de Arquitetura de Software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.dll
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\Fundamentos de Arquitetura de Software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.pdb
+\\wsl.localhost\Ubuntu\home\gpmrks\projetos\Fundamentos de Arquitetura de Software\DesignPatterns\obj\Debug\netcoreapp2.2\DesignPatterns.genruntimeconfig.cache

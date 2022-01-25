@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java 2D ArrayList/Java 2D ArrayList.iml" filepath="$PROJECT_DIR$/Java 2D ArrayList/Java 2D ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 2D arrays/Java 2D arrays.iml" filepath="$PROJECT_DIR$/Java 2D arrays/Java 2D arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java ArrayList/Java ArrayList.iml" filepath="$PROJECT_DIR$/Java ArrayList/Java ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Copy objects/Java Copy objects.iml" filepath="$PROJECT_DIR$/Java Copy objects/Java Copy objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Dynamic Polimorphism/Java Dynamic Polimorphism.iml" filepath="$PROJECT_DIR$/Java Dynamic Polimorphism/Java Dynamic Polimorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Encapsulation/Java Encapsulation.iml" filepath="$PROJECT_DIR$/Java Encapsulation/Java Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java GUI intro/Java GUI intro.iml" filepath="$PROJECT_DIR$/Java GUI intro/Java GUI intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Interface/Java Interface.iml" filepath="$PROJECT_DIR$/Java Interface/Java Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Math class/Java Math class.iml" filepath="$PROJECT_DIR$/Java Math class/Java Math class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Polimorphism/Java Polimorphism.iml" filepath="$PROJECT_DIR$/Java Polimorphism/Java Polimorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java String methods/Java String methods.iml" filepath="$PROJECT_DIR$/Java String methods/Java String methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java abstraction/Java abstraction.iml" filepath="$PROJECT_DIR$/Java abstraction/Java abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java access modifiers (public, protected, private)/Java access modifiers (public, protected, private).iml" filepath="$PROJECT_DIR$/Java access modifiers (public, protected, private)/Java access modifiers (public, protected, private).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java array of objects/Java array of objects.iml" filepath="$PROJECT_DIR$/Java array of objects/Java array of objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java arrays/Java arrays.iml" filepath="$PROJECT_DIR$/Java arrays/Java arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java constructors/Java constructors.iml" filepath="$PROJECT_DIR$/Java constructors/Java constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java final keyword/Java final keyword.iml" filepath="$PROJECT_DIR$/Java final keyword/Java final keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java for loop/Java for loop.iml" filepath="$PROJECT_DIR$/Java for loop/Java for loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java for-each loop/Java for-each loop.iml" filepath="$PROJECT_DIR$/Java for-each loop/Java for-each loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java if statements/Java if statements.iml" filepath="$PROJECT_DIR$/Java if statements/Java if statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java inheritance/Java inheritance.iml" filepath="$PROJECT_DIR$/Java inheritance/Java inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java logical operators/Java logical operators.iml" filepath="$PROJECT_DIR$/Java logical operators/Java logical operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java method overriding/Java method overriding.iml" filepath="$PROJECT_DIR$/Java method overriding/Java method overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java methods/Java methods.iml" filepath="$PROJECT_DIR$/Java methods/Java methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java methods 2/Java methods 2.iml" filepath="$PROJECT_DIR$/Java methods 2/Java methods 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java nested loops/Java nested loops.iml" filepath="$PROJECT_DIR$/Java nested loops/Java nested loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java object passing/Java object passing.iml" filepath="$PROJECT_DIR$/Java object passing/Java object passing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java objects (OOP)/Java objects (OOP).iml" filepath="$PROJECT_DIR$/Java objects (OOP)/Java objects (OOP).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java overloaded constructors/Java overloaded constructors.iml" filepath="$PROJECT_DIR$/Java overloaded constructors/Java overloaded constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java overloaded methods/Java overloaded methods.iml" filepath="$PROJECT_DIR$/Java overloaded methods/Java overloaded methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java printf/Java printf.iml" filepath="$PROJECT_DIR$/Java printf/Java printf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java random numbers/Java random numbers.iml" filepath="$PROJECT_DIR$/Java random numbers/Java random numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java static keyword/Java static keyword.iml" filepath="$PROJECT_DIR$/Java static keyword/Java static keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java super keyword/Java super keyword.iml" filepath="$PROJECT_DIR$/Java super keyword/Java super keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java switch/Java switch.iml" filepath="$PROJECT_DIR$/Java switch/Java switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java toString method/Java toString method.iml" filepath="$PROJECT_DIR$/Java toString method/Java toString method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java variable scope/Java variable scope.iml" filepath="$PROJECT_DIR$/Java variable scope/Java variable scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java while loop/Java while loop.iml" filepath="$PROJECT_DIR$/Java while loop/Java while loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java wrapper classes/Java wrapper classes.iml" filepath="$PROJECT_DIR$/Java wrapper classes/Java wrapper classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/projetos.iml" filepath="$PROJECT_DIR$/.idea/projetos.iml" />
+    </modules>
+  </component>
+</project>
