@@ -2,6 +2,8 @@ plugins {
 	id 'org.springframework.boot' version '2.6.3'
 	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
 	id 'java'
+	id 'checkstyle'
+	id 'pmd'
 }
 
 group = 'com.aulajava'
@@ -15,6 +17,19 @@ repositories {
 dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+}
+
+checkstyle{
+	toolVersion = '9.2.1'
+	showViolations = true
+	configFile = file("config/checkstyle/checkstyle.xml")
+}
+
+pmd {
+	consoleOutput = true
+	toolVersion = "6.21.0"
+	rulesMinimumPriority = 5
+	ruleSets = ["config/pmd/ruleset.xml"]
 }
 
 tasks.named('test') {
