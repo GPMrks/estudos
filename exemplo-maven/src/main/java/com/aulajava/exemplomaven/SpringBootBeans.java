@@ -22,14 +22,6 @@ public class SpringBootBeans {
 
 		livro.exibir();
 
-		Livro davinci = factory.getBean(Livro.class);
-		davinci.setNome("DaVinci Code");
-		davinci.setCodigo("HADJO15");
-		Autor dan = factory.getBean(Autor.class);
-		dan.setNome("Dan Brown");
-
-		davinci.exibir();
-
 		((AbstractApplicationContext) factory).close();
 	}
 }
