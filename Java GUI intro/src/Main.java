@@ -20,7 +20,6 @@ public class Main {
             }
             while (name.equals(""));
             {
-                JOptionPane.showMessageDialog(null, "Olá " + name);
             }
 
             while (!validAge) {
@@ -40,7 +39,6 @@ public class Main {
                     JOptionPane.showMessageDialog(null, "Idade não informada!");
                }
             }
-            JOptionPane.showMessageDialog(null, "Você tem " + age + " anos.");
 
             while (!validHeight) {
                try {
@@ -50,9 +48,14 @@ public class Main {
                     JOptionPane.showMessageDialog(null, "Altura não informada!");
                 }
             }
-            JOptionPane.showMessageDialog(null, "Você tem " + height + "cm de altura.");
 
             JOptionPane.showMessageDialog(null, "Bem vindo!!");
+
+            JOptionPane.showMessageDialog(null, "Olá " + name);
+            //JOptionPane.showMessageDialog(null, "Você tem " + age + " anos.");
+            JOptionPane.showMessageDialog(null, "Você tem " + height + "cm de altura.\nVocê tem " + age + " anos.");
+            JOptionPane.showMessageDialog(null, "Fim do programa!");
+
         }
 
         catch(NullPointerException exit){
